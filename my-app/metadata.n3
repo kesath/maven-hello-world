@@ -1,0 +1,5 @@
+<urn:maven/artifact#com.my-company.app:my-app:{{VERSION}}::jar>
+    <urn:mycustomspace#repositoryId> "{{REPOSITORY_NAME}}" ;
+    <urn:mycustomspace#mavenVersion> "{{MAVEN_VERSION}}" ;
+    <urn:mycustomspace#releaseManager> "{{RELEASE_MANAGER}" ;
+    <urn:mycustomspace#codeCoverage> "{{CODE_COVERAGE}}" .
